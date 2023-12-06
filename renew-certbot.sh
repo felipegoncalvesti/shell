@@ -21,4 +21,4 @@ else
     mensagem="Ocorreu um erro na renovação do certificado SSL do Servidor Speedtest."
     enviar_mensagem_telegram "$mensagem"
 fi
-    
+    ""
